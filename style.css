@@ -1,0 +1,33 @@
+
+    form{
+     border: 10px solid  rgba(143, 29, 118, 0.726);
+     width:600px;
+     height: 600px;
+    }
+    input[type=email],
+    input[type=password] {
+     width:100%;
+     padding:12px 20px;
+     margin:18px 0 8px 0;
+     border:1px solid #ccc;
+     box-sizing: border-box;
+     border-radius: 10px;
+    }
+    button{
+        background-color: rgba(143, 29, 118, 0.726);
+        color:white;
+        padding:14px 20px;
+        margin:8px 0;
+        cursor: pointer;
+        width:100%;
+        border-radius: 10px;
+        border: none;
+    }
+    .img{
+        text-align: center;
+        margin:24px 0 12px 0;
+    }
+    .container{
+        padding: 20px;
+    }
+   
